@@ -1,0 +1,26 @@
+.register {
+    width: 400px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #363638;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    color: #f8f3f7;
+        font-weight: bold;
+    font-size: 15px;
+}
+ 
+.register > form input {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    border: 2px solid rgb(46, 41, 41);
+    outline: none;
+    color: #f50f32;
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+}
+ 

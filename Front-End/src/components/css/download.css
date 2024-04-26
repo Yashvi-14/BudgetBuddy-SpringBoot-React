@@ -1,0 +1,26 @@
+.download-button {
+    /* background-color: #4CAF50;  */
+    border: none;
+    color: rgb(8, 7, 7);
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 650px;
+    /* background-color: red; */
+  }
+  
+  .download-button .LiaFileDownloadSolid {
+    font-size: 30px; /* Adjust the size as needed */
+    /* background-color: red; */
+  }
+  
+  .download-button:hover {
+    background-color:lightgrey; /* Darker Green */
+  }
+  

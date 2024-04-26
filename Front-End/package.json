@@ -1,0 +1,68 @@
+{
+  "name": "budgetbuddy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@gooddata/sdk-ui-filters": "^9.9.0",
+    "@mui/icons-material": "^5.15.14",
+    "@mui/material": "^5.15.15",
+    "@mui/x-charts": "^7.3.0",
+    "@reduxjs/toolkit": "^2.2.3",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "ant-design": "^1.0.0",
+    "antd": "^5.16.1",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^11.0.25",
+    "jwt-decode": "^4.0.0",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-bootstrap": "^2.9.0-beta.1",
+    "react-date-range": "^2.0.0-alpha.4",
+    "react-datepicker": "^6.6.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.1.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.12.4",
+    "redux": "^5.0.1",
+    "styled-components": "^6.1.8",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
+ 

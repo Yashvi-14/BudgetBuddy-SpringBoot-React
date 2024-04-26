@@ -1,0 +1,14 @@
+.notification {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #141313;
+    color: white;
+    padding: 20px;
+    width: auto;
+    border-radius: 5px;
+}
+ 
+.close-button {
+    margin-left: 10px;
+}
